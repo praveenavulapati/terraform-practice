@@ -17,7 +17,7 @@ variable "hw" {
 
 variable "name" {
   type = string
-  default = "praveen-server1"
+  default = "praveen-server-1"
   description = "Enter your server name"
 }
 
