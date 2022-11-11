@@ -5,7 +5,7 @@ provider "aws" {
 
 variable "image" {
   type = string
-  default = "ami-0603cbe34fd08cb81"
+  default = "ami-09d3b3274b6c5d4aa"
   description = "Enter your APP Image to be deployed"
 }
 
